@@ -11,6 +11,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | Unit 1 Homeworks                                                                                        | Due on:          | 
 | --------------------------------------------------------------------------------------------------------| :--------------: | 
 | [Semantic HTML Lab](https://github.com/GA-SEB-8/Week01-Day01/tree/main/SemanticHTML-Lab)                |  02/07/25, Wed   | 
+| [Wendy Bite](https://github.com/GA-SEB-8/Week01-Day02/blob/main/wendy-bite/readme.md)                   |  02/07/25, Wed   | 
 | [JS Function Lab](#)                                                                                    |  DD/MM/YY, Day   | 
 | [JS Arrays Lab](#)                                                                                      |  DD/MM/YY, Day   |
 | [JS Objects Lab](#)                                                                                     |  DD/MM/YY, Day   |
