@@ -10,6 +10,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 
 | Unit 1 Homeworks                                                                              | Due on:          | 
 | --------------------------------------------------------------------------------------------- | :--------------: | 
+| [Semantic HTML Lab](#)                                                                        |  02/07/25, Wed   | 
 | [JS Function Lab](#)                                                                          |  DD/MM/YY, Day   | 
 | [JS Arrays Lab](#)                                                                            |  DD/MM/YY, Day   |
 | [JS Objects Lab](#)                                                                           |  DD/MM/YY, Day   |
