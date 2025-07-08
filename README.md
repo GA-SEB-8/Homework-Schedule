@@ -1,5 +1,5 @@
 # Homework Schedule
-![programming-background-concept (2)](https://github.com/user-attachments/assets/df086fa1-ab13-4a1a-8d0a-241abdc33802)
+![programming-background-concept (2)](https://github.com/user-attachments/assets/7b002f83-7069-4834-9110-06d004a9602b)
 
 ## Submission
 Please fill out the form below to submit your homework:
