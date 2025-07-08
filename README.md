@@ -17,4 +17,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | [JS Arrays Lab](https://github.com/GA-SEB-8/Week01-Day04/blob/main/intro-to-javascript-arrays-lab/exercise/README.md)                            |  08/07/25, Tues  |
 | [DOM EVENTS Lab](https://github.com/GA-SEB-8/Week01-Day05/tree/main/dom-events-lab)                                                              |  09/07/25, Wed   |
 | [Tamagochi](https://github.com/GA-SEB-8/Week01-Day05/tree/main/javascript-browser-game-tamagotchi-lab)                                           |  09/07/25, Wed   |
+| [Array Iterator Methods Lab](https://github.com/GA-SEB-8/Week02-Day01/blob/main/javascript-array-iterator-methods-lab/exercise/README.md)        |  10/07/25, Thur  |
+
+
 
