@@ -8,6 +8,11 @@ Please fill out the form below to submit your homework:
 
 All Homeworks are due at 9:00AM the morning of the due date
 
+| Unit 2 Homeworks                                                                                                                                 | Due on:          | 
+| -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
+| [Express Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day01-Intro-To-Node-And-Express/tree/main/express-lab)                                   |  22/07/25, Tues  | 
+
+
 | Unit 1 Homeworks                                                                                                                                 | Due on:          | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
 | [Semantic HTML Lab](https://github.com/GA-SEB-8/Week01-Day01/tree/main/SemanticHTML-Lab)                                                         |  02/07/25, Wed   | 
