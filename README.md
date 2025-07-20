@@ -1,5 +1,6 @@
 # Homework Schedule
-![—Pngtree—computer of a programmer with_15533602](https://github.com/user-attachments/assets/54728b94-baa9-41e9-9fb3-c2bfa34c4204)
+
+<img width="5824" height="2887" alt="prog" src="https://github.com/user-attachments/assets/164fce54-c8d7-4801-8755-8d1ab2d00b80" />
 
 ## Submission
 Please fill out the form below to submit your homework:
