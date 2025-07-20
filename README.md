@@ -1,5 +1,5 @@
 # Homework Schedule
-![programming-background-concept (2)](https://github.com/user-attachments/assets/7b002f83-7069-4834-9110-06d004a9602b)
+![—Pngtree—computer of a programmer with_15533602](https://github.com/user-attachments/assets/54728b94-baa9-41e9-9fb3-c2bfa34c4204)
 
 ## Submission
 Please fill out the form below to submit your homework:
