@@ -11,7 +11,10 @@ All Homeworks are due at 9:00AM the morning of the due date
 
 | Unit 2 Homeworks                                                                                                                                 | Due on:          | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
-| [Express Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day01-Intro-To-Node-And-Express/tree/main/express-lab)                                   |  22/07/25, Tues  | 
+| [Express Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day01-Intro-To-Node-And-Express/tree/main/express-lab)                                   |  22/07/25, Tues  |
+| [EJS Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day02-Intro-To-EJS/tree/main/ejs-lab)                                                        |  23/07/25, Wed   |
+
+
 
 
 | Unit 1 Homeworks                                                                                                                                 | Due on:          | 
