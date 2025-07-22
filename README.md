@@ -13,7 +13,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
 | [Express Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day01-Intro-To-Node-And-Express/tree/main/express-lab)                                   |  22/07/25, Tues  |
 | [EJS Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day02-Intro-To-EJS/tree/main/ejs-lab)                                                        |  23/07/25, Wed   |
-
+| [Mongoose Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day03-Asynchronous-Programming/tree/main/mongoose-lab)                                  |  24/07/25, Thur  |
 
 
 
