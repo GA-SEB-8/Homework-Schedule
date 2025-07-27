@@ -15,6 +15,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | [EJS Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day02-Intro-To-EJS/tree/main/ejs-lab)                                                        |  23/07/25, Wed   |
 | [Mongoose Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day03-Asynchronous-Programming/tree/main/mongoose-lab)                                  |  27/07/25, Sun   |
 | [MEN stack CRUD app](https://github.com/GA-SEB-8/Unit02-Week01-Day04-Fruits-Full-CRUD/tree/main/men-stack-crud-app-lab)                          |  28/07/25, Mon   |
+| [Clinic Tracker Lab](https://github.com/GA-SEB-8/Unit02-Week02-Day01-Mongoose-Relationships/tree/main/mongoose-relationships-lab)                |  29/07/25, Tues  |
 
 
 
