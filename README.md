@@ -9,6 +9,12 @@ Please fill out the form below to submit your homework:
 
 All Homeworks are due at 9:00AM the morning of the due date
 
+| Unit 3 Homeworks                                                                                                                                 | Due on:          | 
+| -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
+| [Modern JavaScript Syntax Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day04/tree/main/modern-javascript-syntax-lab)                           |  10/08/25, Sun   |
+
+
+
 | Unit 2 Homeworks                                                                                                                                 | Due on:          | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
 | [Express Lab](https://github.com/GA-SEB-8/Unit02-Week01-Day01-Intro-To-Node-And-Express/tree/main/express-lab)                                   |  22/07/25, Tues  |
