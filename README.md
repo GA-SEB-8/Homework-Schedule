@@ -12,6 +12,8 @@ All Homeworks are due at 9:00AM the morning of the due date
 | Unit 3 Homeworks                                                                                                                                 | Due on:          | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
 | [Modern JavaScript Syntax Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day04/tree/main/modern-javascript-syntax-lab)                           |  10/08/25, Sun   |
+| [React Components Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day05/tree/main/react-components-lab)                                           |  11/08/25, Mon   |
+| [React State Management Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day05/tree/main/react-state-management-lab)                               |  11/08/25, Mon   |
 
 
 
