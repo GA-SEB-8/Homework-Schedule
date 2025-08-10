@@ -14,6 +14,8 @@ All Homeworks are due at 9:00AM the morning of the due date
 | [Modern JavaScript Syntax Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day04/tree/main/modern-javascript-syntax-lab)                           |  10/08/25, Sun   |
 | [React Components Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day05/tree/main/react-components-lab)                                           |  11/08/25, Mon   |
 | [React State Management Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day05/tree/main/react-state-management-lab)                               |  11/08/25, Mon   |
+| [Controlled Forms in React Lab](https://github.com/GA-SEB-8/Unit03-Week07-Day01/tree/main/controlled-forms-in-react-lab)                         |  12/08/25, Tues  |
+
 
 
 
