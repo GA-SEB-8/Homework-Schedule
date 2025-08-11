@@ -15,6 +15,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | [React Components Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day05/tree/main/react-components-lab)                                           |  11/08/25, Mon   |
 | [React State Management Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day05/tree/main/react-state-management-lab)                               |  11/08/25, Mon   |
 | [Controlled Forms in React Lab](https://github.com/GA-SEB-8/Unit03-Week07-Day01/tree/main/controlled-forms-in-react-lab)                         |  12/08/25, Tues  |
+| [React Router DOM Lab](https://github.com/GA-SEB-8/Unit-03-Week07-Day02/tree/main/react-router-dom-lab)                                          |  13/08/25, Wed   |
 
 
 
