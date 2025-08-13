@@ -17,7 +17,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | [Controlled Forms in React Lab](https://github.com/GA-SEB-8/Unit03-Week07-Day01/tree/main/controlled-forms-in-react-lab)                         |  12/08/25, Tues  |
 | [React Router DOM Lab](https://github.com/GA-SEB-8/Unit-03-Week07-Day02/tree/main/react-router-dom-lab)                                          |  13/08/25, Wed   |
 | [Express API Jukebox Back-End Lab](https://github.com/GA-SEB-8/Unit-03-Week07-Day03/tree/main/express-api-jukebox-back-end-lab)                  |  14/08/25, Thur  |
-
+| [React Jukebox Front-End Lab](https://github.com/GA-SEB-8/Unit-03-Week07-Day03/tree/main/react-jukebox-front-end-lab)                            |  17/08/25, Sun   |
 
 
 | Unit 2 Homeworks                                                                                                                                 | Due on:          | 
