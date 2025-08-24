@@ -9,6 +9,12 @@ Please fill out the form below to submit your homework:
 
 All Homeworks are due at 9:00AM the morning of the due date
 
+| Unit 4 Homeworks                                                                                                                                    | Due on:          | 
+| ----------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
+| [Control flow lab](https://github.com/GA-SEB-8/Unit-04-Week09-Day01-Intro-To-Python/tree/master/python-for-javascript-developers-control-flow-lab)  |  26/08/25, Tues  |
+| [functions lab](https://github.com/GA-SEB-8/Unit-04-Week09-Day01-Intro-To-Python/tree/master/python-for-javascript-developers-functions-lab)        |  26/08/25, Tues  |
+
+
 | Unit 3 Homeworks                                                                                                                                 | Due on:          | 
 | -------------------------------------------------------------------------------------------------------------------------------------------------| :--------------: | 
 | [Modern JavaScript Syntax Lab](https://github.com/GA-SEB-8/Unit03-Week06-Day04/tree/main/modern-javascript-syntax-lab)                           |  10/08/25, Sun   |
