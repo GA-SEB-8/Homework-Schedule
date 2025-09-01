@@ -15,6 +15,7 @@ All Homeworks are due at 9:00AM the morning of the due date
 | [functions lab](https://github.com/GA-SEB-8/Unit-04-Week09-Day01-Intro-To-Python/tree/master/python-for-javascript-developers-functions-lab)           |  26/08/25, Tues  |
 | [Data Structures Lab](https://github.com/GA-SEB-8/Unit-04-Week09-Day02-Data-Structures/tree/main/python-for-javascript-developers-data-structures-lab) |  27/08/25, Wed   |
 | [Intro to sql lab](https://github.com/GA-SEB-8/Unit-04-Week09-Day03-SQL/tree/main/intro-to-sql-lab)                                                    |  28/08/25, Thur  |
+| [Django CRUD App Lab](https://github.com/GA-SEB-8/Unit-04-Week10-Day01-Django-Library-Code-Along/tree/main/django-crud-app-lab)                        |  02/09/25, Tues  |
 
 
 | Unit 3 Homeworks                                                                                                                                 | Due on:          | 
